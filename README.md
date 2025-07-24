@@ -23,10 +23,6 @@ A web-based visualization tool that demonstrates how various sorting algorithms 
 - CSS3
 - JavaScript (Vanilla)
 
- 📸 Screenshots
-
-![App Screenshot](./assets/screenshot.png) 
-
 🛠️ Setup Instructions
 
 1. Clone the repository:
